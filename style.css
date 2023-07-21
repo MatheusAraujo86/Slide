@@ -42,7 +42,7 @@ main {
 aside {
   right: 0;
   width: 40%;
-  background-color: #e94196;
+  background-color: #d85296;
 }
 
 /* form block */
@@ -89,7 +89,7 @@ input {
   font-size: 1.05rem;
   padding: 1em 3.5em;
   border-radius: 2em;
-  background-color: #e94196;
+  background-color: #d85296;
   color: #080808;
   cursor: pointer;
 }
